@@ -16,7 +16,7 @@ OpenCore EFI for Intel NUC KIT(nuc8i7hvk) on MacOS Catalina
 ## Software
 
 * Bootloader: OpenCore 0.6.6 + reEFInd
-* OS: macOS Catalina 10.15.6
+* OS: macOS Catalina 10.15.7
 
 ## Benchmark
 

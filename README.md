@@ -23,12 +23,21 @@ OpenCore EFI for Intel NUC KIT(nuc8i7hvk) on MacOS Catalina
 
 CPU
 
-![macOS-catalina](Docs/images/CPU.png)
+![CPU](Docs/images/CPU.png)
 
 GPU
 
-![macOS-catalina](Docs/images/GPU.png)
+![GPU](Docs/images/GPU.png)
 
+Cinebench
+
+TPD
+
+![Cinebench1](Docs/images/Cinebench1)
+
+Result
+
+![Cinebench2](Docs/images/Cinebench2)
 
 ## Dual boot
 ![macOS-catalina](Docs/images/boot.JPG)

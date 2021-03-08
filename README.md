@@ -33,11 +33,11 @@ Cinebench
 
 TPD
 
-![Cinebench1](Docs/images/Cinebench1)
+![Cinebench1](Docs/images/Cinebench1.png)
 
 Result
 
-![Cinebench2](Docs/images/Cinebench2)
+![Cinebench2](Docs/images/Cinebench2.png)
 
 ## Dual boot
 ![macOS-catalina](Docs/images/boot.JPG)

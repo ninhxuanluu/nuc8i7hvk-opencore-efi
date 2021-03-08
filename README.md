@@ -10,7 +10,8 @@ OpenCore EFI for Intel NUC KIT(nuc8i7hvk) on MacOS Catalina
 * CPU: Intel® Core™ i7-8809G
 * GPU: AMD Radeon RX Vega M GH 4GB
 * RAM: HyperX Impact DDR4 32GB (2 x 16GB) 2667Mhz
-* SSD: Samsung 970 EVO Plus PCIe NVMe V-NAND M.2 2280 500GB
+* SSD: Samsung 970 EVO Plus PCIe NVMe V-NAND M.2 2280 500GB(for MacOS)
+* SSD: Samsung 960 Pro PCIe NVME 512GB(for Windows)
 * DW1560 Card - Broadcom BCM94352Z 802.11ac 867Mpbs
 
 ## Software

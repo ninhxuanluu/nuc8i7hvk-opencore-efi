@@ -1,7 +1,7 @@
 # nuc8i7hvk-opencore-efi
-OpenCore EFI for Intel NUC KIT(nuc8i7hvk) on MacOS Catalina
+OpenCore EFI for Intel NUC KIT(nuc8i7hvk) on macOS Big Sur 11.2.3
 
-![macOS-catalina](Docs/images/About.png)
+![macOS-big-sur](Docs/images/About.png)
 
 
 ## Hardware
@@ -40,4 +40,4 @@ Result
 ![Cinebench2](Docs/images/Cinebench2.png)
 
 ## Dual boot
-![macOS-catalina](Docs/images/boot.JPG)
+![macOS-big-sur](Docs/images/boot.JPG)

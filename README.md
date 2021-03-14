@@ -1,7 +1,7 @@
 # nuc8i7hvk-opencore-efi
 OpenCore EFI for Intel NUC KIT(nuc8i7hvk) on MacOS Catalina
 
-![macOS-catalina](Docs/images/About.jpeg)
+![macOS-catalina](Docs/images/About.png)
 
 
 ## Hardware
@@ -16,8 +16,8 @@ OpenCore EFI for Intel NUC KIT(nuc8i7hvk) on MacOS Catalina
 
 ## Software
 
-* Bootloader: OpenCore 0.6.6 + reEFInd
-* OS: macOS Catalina 10.15.7
+* Bootloader: OpenCore 0.6.5 + rEFInd
+* OS: macOS Big Sur 11.2.3
 
 ## Benchmark
 
